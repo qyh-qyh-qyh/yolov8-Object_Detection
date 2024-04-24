@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <p>
     <a href="https://ultralytics.com/yolov8" target="_blank">
@@ -269,3 +270,7 @@ For Ultralytics bug reports and feature requests please visit [GitHub Issues](ht
   <a href="https://ultralytics.com/discord" style="text-decoration:none;">
     <img src="https://github.com/ultralytics/assets/blob/main/social/logo-social-discord.png" width="3%" alt="" /></a>
 </div>
+=======
+# yolov8-Object_Detection
+2024机械创新设计大赛跑的一个目标检测模型（后续可以应用到其他地方）
+>>>>>>> b32ecf6e676d137a785a29d75066ef353822f4af
